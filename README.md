@@ -1,0 +1,1 @@
+# templante-terraform-dynamo-module
